@@ -1,7 +1,7 @@
 ##
-## mod-mancolor: colorize man pages
-## -------------------------------------------------------
-#* version: 2018-03-29
+## ** mod-mancolor: Colorize man pages **
+#
+#* version: 2018-08-29
 #* author:  Michael Arbet (marbet@redhat.com)
 #* home:    https://github.com/micharbet/CLE
 #* license: GNU GPL v2
